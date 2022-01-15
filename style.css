@@ -1,0 +1,14 @@
+body{
+  
+  background-image: url(https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg
+  );
+
+  background-attachment:fixed 
+}
+body{
+    background: url(images/bg.jpg) no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+}
